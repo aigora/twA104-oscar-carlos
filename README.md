@@ -1,11 +1,8 @@
-# Título del trabajo
+# Catapulta automática
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Catapulta automatica en la cual se podrá calcular la fuerza del resorte, ajustar de angulo de tiro y realizar un proceso de prelanzamiento.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Carlos Bravo y Óscar Miguel Cabrera
 
-## Objetivos del trabajo
-
-Lista de los objetivos que se persiguen con el trabajo propuesto.
